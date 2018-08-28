@@ -13,4 +13,4 @@ The simulation corresponds to the rate equation d[mRNA]/dt = k - g[mRNA].
 
 ### How to run
 - mRNA(k,g,initial)
-- Stochastic and deterministic dynamics will be shown in blue and red respectively.
+- Stochastic and deterministic dynamics will be shown as blue and red line plot, respectively.
